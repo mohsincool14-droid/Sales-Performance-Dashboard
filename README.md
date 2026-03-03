@@ -2,6 +2,8 @@
 
 Built interactive dashboards using DAX and Power Query to track sales KPIs and identify revenue trends.
 
+Data extracted from ChatGPT.
+
 Build dashboard using DAX and Power Query in Microsoft Power BI:
 
 *Clean data (Power Query, Excel, MYSQL, Python)
@@ -11,8 +13,6 @@ Build dashboard using DAX and Power Query in Microsoft Power BI:
 *DAX measures (KPIs)
 
 *Visual dashboard (Charts + Cards + Filters)
-
-Data extracted from ChatGPT.
 
 VISUALIZATION:
 
