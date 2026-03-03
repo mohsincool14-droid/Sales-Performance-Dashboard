@@ -16,6 +16,7 @@ VISUALIZATION:
 📊 KPI Cards
 
 Total Revenue
+
 Total Profit
 
 Profit Margin %
@@ -26,24 +27,29 @@ Total Orders
 
 Line Chart
 Axis → YearMonth
+
 Values → Total Revenue
 
 This helps identify:
 
-1.Growth months
-2.Seasonal patterns
-3.Revenue dips
+Growth months
+
+Seasonal patterns
+
+Revenue dips
 
 📊 Category Performance
 
 Clustered Column Chart
 Axis → Product Category
+
 Values → Total Revenue
 
 🌍 Region-wise Sales
 
 Bar Chart
 Axis → Region
+
 Values → Total Revenue
 
 🏆 Top 5 Products
