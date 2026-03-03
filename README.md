@@ -17,7 +17,9 @@ VISUALIZATION:
 
 Total Revenue
 Total Profit
+
 Profit Margin %
+
 Total Orders
 
 📈 Revenue Trend
