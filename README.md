@@ -28,9 +28,9 @@ Values → Total Revenue
 
 This helps identify:
 
-Growth months
-Seasonal patterns
-Revenue dips
+1.Growth months
+2.Seasonal patterns
+3.Revenue dips
 
 📊 Category Performance
 
